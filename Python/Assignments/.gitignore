@@ -1,0 +1,9 @@
+# Exclude Assignments 6 and 7
+Assignment 6 (NumPy)/
+Assignment 7 (Pandas)/
+
+# Exclude temporary runner file
+tempCodeRunnerFile.python
+
+# Exclude IDE/System folders
+.idea/r
